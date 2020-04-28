@@ -3,6 +3,7 @@ A simple, bad written, not maintained, worthless, piece of sh*t bot, for the cra
 Maven project, using Selenium.
 
 Run the program with the following arguments:
+
 0. chromeDriver path.
 1. Round entry amount.
 2. Exit multiplier.
