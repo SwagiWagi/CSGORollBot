@@ -1,5 +1,6 @@
 # CSGOrollBot
-A simple, bad written, not maintained, worthless, piece of sh*t bot, for the crash game at csgoroll.com.
+A simple, bad written, not maintained, worthless, piece of sh*t bot for the crash game at csgoroll.com.
+
 Maven project, using Selenium.
 
 Run the program with the following arguments:
